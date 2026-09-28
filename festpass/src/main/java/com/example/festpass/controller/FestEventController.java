@@ -25,4 +25,5 @@ public class FestEventController {
     public List<FestEvent> getAllEvents() {
         return service.getAllEvents();
     }
+
 }
